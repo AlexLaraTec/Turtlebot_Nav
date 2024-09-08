@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+class_pkg/__init__.py
+class_pkg/turtle_nav.py
+class_pkg.egg-info/PKG-INFO
+class_pkg.egg-info/SOURCES.txt
+class_pkg.egg-info/dependency_links.txt
+class_pkg.egg-info/entry_points.txt
+class_pkg.egg-info/requires.txt
+class_pkg.egg-info/top_level.txt
+class_pkg.egg-info/zip-safe
+resource/class_pkg

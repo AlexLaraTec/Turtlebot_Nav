@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_nav = class_pkg.turtle_nav:main
+
